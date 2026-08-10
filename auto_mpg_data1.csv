@@ -327,7 +327,6 @@ mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,car_
 36.4,5,121,67,2950,19.9,80,2,audi 5000s (diesel)
 30,4,146,67,3250,21.8,80,2,mercedes-benz 240d
 44.6,4,91,67,1850,13.8,80,3,honda civic 1500 gl
-40.9,4,85,?,1835,17.3,80,2,renault lecar deluxe
 33.8,4,97,67,2145,18,80,3,subaru dl
 29.8,4,89,62,1845,15.3,80,2,vokswagen rabbit
 32.7,6,168,132,2910,11.4,80,3,datsun 280-zx
